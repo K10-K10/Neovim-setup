@@ -23,3 +23,4 @@ opt.showcmd = true
 
 -- Else
 opt.autoread = true
+opt.fixeol = true
